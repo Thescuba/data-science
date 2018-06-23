@@ -35,6 +35,7 @@ Table of Contents
       * 5.3 Classification
       * 5.4 Unsupervised Learning
    * [Bonus: Azure Machine Learning](Intro-Azure.ipynb) 
+      * Still in progress
 
 
 
@@ -54,5 +55,3 @@ Follow the instructions at (https://git-scm.com/book/en/v2/Getting-Started-Insta
 1. Clone the repository to a desired location (E.g. `git clone https://github.com/Thescuba/data-science.git`)
 2. Open up jupyter labs or jupyter notebook either though anaconda navigator or terminal. 
 3. Go to the repository directory
-
-Intro.ipynb
